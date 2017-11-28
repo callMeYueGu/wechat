@@ -1,0 +1,31 @@
+<!-- <!DOCTYPE mapper
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+    
+<mapper namespace="psy.measure.dao.AttributionDao">
+	归因方式
+	<select id="calcul"  resultType="AttributionResult">
+		
+		
+	</select> 
+
+
+
+
+	查询商品库存
+	<select id="queryHeros"  resultType="Puppet">
+		select 
+			id,name,bigimage,smallimage,content,stand,position,speed,kungfu,poem,alias,nickname
+		from 
+			puppet
+		where 
+			1=1 
+		
+	</select> 
+
+
+	
+	
+	
+	
+</mapper> -->
