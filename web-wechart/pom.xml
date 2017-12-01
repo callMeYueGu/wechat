@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>web-wechart</groupId>
-  <artifactId>web-wechart</artifactId>
+  <groupId>web-wechat</groupId>
+  <artifactId>web-wechat</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>web-wechart Maven Webapp</name>
+  <name>web-wechat Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
   <properties>
@@ -150,6 +150,6 @@
 	
   </dependencies>
   <build>
-    <finalName>web-wechart</finalName>
+    <finalName>web-wechat</finalName>
   </build>
 </project>

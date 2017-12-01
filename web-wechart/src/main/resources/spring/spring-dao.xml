@@ -42,7 +42,7 @@
 			<!-- 配置mybatis全局配置文件 -->
 			<property name="configLocation" value="classpath:mybatis/mybatis-config.xml"></property>
 			<!-- 扫描实体类包,如果有多个包用分号隔开 -->
-			<property name="typeAliasesPackage" value="org.po"></property>
+			<property name="typeAliasesPackage" value="psy.measure.entity"></property>
 			<!-- 扫描mapper -->
 			<property name="mapperLocations" value="classpath:mapper/*.xml"></property>
 		</bean>

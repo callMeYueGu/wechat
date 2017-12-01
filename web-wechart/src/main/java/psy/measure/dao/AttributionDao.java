@@ -1,5 +1,5 @@
 package psy.measure.dao;
 
-public class AttributionDao {
+public interface AttributionDao {
 
 }
