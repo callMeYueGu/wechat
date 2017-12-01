@@ -29,6 +29,21 @@
 	    <version>1.2.17</version>
 	</dependency>
 	
+	<!-- dom4j -->
+	<dependency>
+	    <groupId>dom4j</groupId>
+	    <artifactId>dom4j</artifactId>
+	    <version>1.6.1</version>
+	</dependency>
+	
+	<!-- xstream:把文本转化为xml -->
+	<dependency>
+	    <groupId>xstream</groupId>
+	    <artifactId>xstream</artifactId>
+	    <version>1.2.2</version>
+	</dependency>
+	
+	
 	<!-- oracle驱动 -->
 	<dependency>
 	    <groupId>org.clojure</groupId>
